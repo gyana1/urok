@@ -1,5 +1,5 @@
 name: nightly build at 11pm
-push:
+
 on:
   schedule:
     - cron: '0 23 * * *'
